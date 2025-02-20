@@ -31,12 +31,13 @@ export default function About() {
               button="Join Discord"
               link='https://discord.com/invite/6mFZ2S846n'
             />
-            <TimelineElement
-              title="Start Contributing"
-              description="Contribute to the project and make your mark on open-source development with AOSSIE. By making a Pull Request (PR) to one of our existing projects, you'll have the opportunity to showcase your skills and demonstrate your understanding of the project. This will also give you an opportunity to work with the mentors and get familiar with the project before the official GSoC coding period starts. This is a great way to get started and increase your chances of being selected for the program."
+           <TimelineElement
+            title="Start Contributing"
+             description="Contribute to the project and make your mark on open-source development with AOSSIE. ..."
               button="Contribute"
-              link='https://gitlab.com/aossie'
-            />
+            link='https://github.com/AOSSIE-Org'  // UPDATED LINK
+/>
+
             <TimelineElement
               title="Write a Draft Application"
               description="Select an Idea and write a draft application that expands this ideas with your own proposals and showcases how you will execute and complete your project . This is your chance to demonstrate your understanding of the project, your skills, and your passion for open-source development. Our mentors will provide feedback and help you refine your proposal, increasing your chances of being selected for the program."
